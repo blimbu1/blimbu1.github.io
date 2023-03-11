@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #414141;
+    background-color: #EEEEEE;
+    font-size: 18px;
+}
+
+h1, p {
+    margin-bottom: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+}
+
+.song {
+    margin-bottom: 0;
+}
+
+.lyrics {
+    #border: 1px solid red;
+    width: 300px;
+    margin: 0 auto;
+    list-style: none;
+    font-style: italic;
+}
