@@ -3,7 +3,7 @@
 }
 .lyrics {
     #border: 1px solid red;
-    width: 300px;
+    #width: 300px;
     margin: 0 auto;
     list-style: none;
     font-style: italic;
